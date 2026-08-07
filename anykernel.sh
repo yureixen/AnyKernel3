@@ -10,9 +10,9 @@ do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=sweet
-device.name2=sweetin
-supported.versions=11 - 16
+device.name1=onclite
+device.name2=onc
+supported.versions=11 - 15
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
