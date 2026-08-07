@@ -18,7 +18,7 @@ supported.vendorpatchlevels=
 '; } # end properties
 
 # boot shell variables
-BLOCK=/dev/block/platform/omap/omap_hsmmc.0/by-name/boot;
+BLOCK=/dev/block/bootdevice/by-name/boot;
 IS_SLOT_DEVICE=0;
 RAMDISK_COMPRESSION=auto;
 PATCH_VBMETA_FLAG=auto;
