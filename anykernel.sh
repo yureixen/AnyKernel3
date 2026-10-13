@@ -4,14 +4,14 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=testkernel by yureixen
+kernel.string=Kernel for violet (Redmi Note 7 Pro)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=violet
-supported.versions=13 - 16
+supported.versions=13 - 17
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
