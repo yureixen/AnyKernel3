@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=testkernel by yureixen
+kernel.string=Kernel for onclite/onc (Redmi 7/Y3)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=onclite
 device.name2=onc
-supported.versions=11 - 15
+supported.versions=13 - 17
 supported.patchlevels=
 supported.vendorpatchlevels=
 '; } # end properties
