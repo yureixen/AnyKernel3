@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Zincore Kernel by YUREI
+kernel.string=Kernel for sweet (Redmi Note 10 Pro/Max)
 do.devicecheck=1
 do.modules=0
 do.systemless=1
